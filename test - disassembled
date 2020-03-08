@@ -1,0 +1,135 @@
+#Disassembled
+
+Raw Hex (zero bytes in bold):
+
+FCABBDB24DDDB28EEADDB28EDEAED31ADDED9EADDB4DDB8EA38EADDB8BDD7EDDDB12DDDEEAD0A4ADB24ADDADEDDDAEADDB12CDEEAC0A4ADB24ADDACEADDACEDEAE10EADDB12CDED0ADDDDDB12EADDB4ADDEAEDCDEEAD0A4ADB24ADDADEDDDB12DEDEAC0D4DDB24ADDDCEADDADDDEAEDDDB12EADDB4ADDEAEDCDED0DAEADDB16DDDEAEADDB4BDDB12EA4CDDB12076106ADDDDB813EADDB8CEADDB288EADDB4EDEAED31ADDEAEDAEADDB4EA2CDDB409BEC0EFEBEC3EDAAC4DABBB144EDFFEFAC0EA0CAFEAAB132AEDFFEFAC10CDB13EDA0CAFDDB401213ABEDAD2ADDADAEDFFEFAC1EA0CAC99CAFADDDDB4112EADDB132CDDB4EA13EDDDB132EAAB128EEDDACAFCAEDFFEFAC3EA0CAFDDB401415EADDB4CDEEADDB128A4EEAEDFFEFAC40C14EADDB132CDDB4EA15EA0EAEE   
+
+String Literal:
+
+"\xFC\xAB\xBD\xB2\x4D\xDD\xB2\x8E\xEA\xDD\xB2\x8E\xDE\xAE\xD3\x1A\xDD\xED\x9E\xAD\xDB\x4D\xDB\x8E\xA3\x8E\xAD\xDB\x8B\xDD\x7E\xDD\xDB\x12\xDD\xDE\xEA\xD0\xA4\xAD\xB2\x4A\xDD\xAD\xED\xDD\xAE\xAD\xDB\x12\xCD\xEE\xAC\x0A\x4A\xDB\x24\xAD\xDA\xCE\xAD\xDA\xCE\xDE\xAE\x10\xEA\xDD\xB1\x2C\xDE\xD0\xAD\xDD\xDD\xB1\x2E\xAD\xDB\x4A\xDD\xEA\xED\xCD\xEE\xAD\x0A\x4A\xDB\x24\xAD\xDA\xDE\xDD\xDB\x12\xDE\xDE\xAC\x0D\x4D\xDB\x24\xAD\xDD\xCE\xAD\xDA\xDD\xDE\xAE\xDD\xDB\x12\xEA\xDD\xB4\xAD\xDE\xAE\xDC\xDE\xD0\xDA\xEA\xDD\xB1\x6D\xDD\xEA\xEA\xDD\xB4\xBD\xDB\x12\xEA\x4C\xDD\xB1\x20\x76\x10\x6A\xDD\xDD\xB8\x13\xEA\xDD\xB8\xCE\xAD\xDB\x28\x8E\xAD\xDB\x4E\xDE\xAE\xD3\x1A\xDD\xEA\xED\xAE\xAD\xDB\x4E\xA2\xCD\xDB\x40\x9B\xEC\x0E\xFE\xBE\xC3\xED\xAA\xC4\xDA\xBB\xB1\x44\xED\xFF\xEF\xAC\x0E\xA0\xCA\xFE\xAA\xB1\x32\xAE\xDF\xFE\xFA\xC1\x0C\xDB\x13\xED\xA0\xCA\xFD\xDB\x40\x12\x13\xAB\xED\xAD\x2A\xDD\xAD\xAE\xDF\xFE\xFA\xC1\xEA\x0C\xAC\x99\xCA\xFA\xDD\xDD\xB4\x11\x2E\xAD\xDB\x13\x2C\xDD\xB4\xEA\x13\xED\xDD\xB1\x32\xEA\xAB\x12\x8E\xED\xDA\xCA\xFC\xAE\xDF\xFE\xFA\xC3\xEA\x0C\xAF\xDD\xB4\x01\x41\x5E\xAD\xDB\x4C\xDE\xEA\xDD\xB1\x28\xA4\xEE\xAE\xDF\xFE\xFA\xC4\x0C\x14\xEA\xDD\xB1\x32\xCD\xDB\x4E\xA1\x5E\xA0\xEA\xEE"
+
+Array Literal:
+
+{ 0xFC, 0xAB, 0xBD, 0xB2, 0x4D, 0xDD, 0xB2, 0x8E, 0xEA, 0xDD, 0xB2, 0x8E, 0xDE, 0xAE, 0xD3, 0x1A, 0xDD, 0xED, 0x9E, 0xAD, 0xDB, 0x4D, 0xDB, 0x8E, 0xA3, 0x8E, 0xAD, 0xDB, 0x8B, 0xDD, 0x7E, 0xDD, 0xDB, 0x12, 0xDD, 0xDE, 0xEA, 0xD0, 0xA4, 0xAD, 0xB2, 0x4A, 0xDD, 0xAD, 0xED, 0xDD, 0xAE, 0xAD, 0xDB, 0x12, 0xCD, 0xEE, 0xAC, 0x0A, 0x4A, 0xDB, 0x24, 0xAD, 0xDA, 0xCE, 0xAD, 0xDA, 0xCE, 0xDE, 0xAE, 0x10, 0xEA, 0xDD, 0xB1, 0x2C, 0xDE, 0xD0, 0xAD, 0xDD, 0xDD, 0xB1, 0x2E, 0xAD, 0xDB, 0x4A, 0xDD, 0xEA, 0xED, 0xCD, 0xEE, 0xAD, 0x0A, 0x4A, 0xDB, 0x24, 0xAD, 0xDA, 0xDE, 0xDD, 0xDB, 0x12, 0xDE, 0xDE, 0xAC, 0x0D, 0x4D, 0xDB, 0x24, 0xAD, 0xDD, 0xCE, 0xAD, 0xDA, 0xDD, 0xDE, 0xAE, 0xDD, 0xDB, 0x12, 0xEA, 0xDD, 0xB4, 0xAD, 0xDE, 0xAE, 0xDC, 0xDE, 0xD0, 0xDA, 0xEA, 0xDD, 0xB1, 0x6D, 0xDD, 0xEA, 0xEA, 0xDD, 0xB4, 0xBD, 0xDB, 0x12, 0xEA, 0x4C, 0xDD, 0xB1, 0x20, 0x76, 0x10, 0x6A, 0xDD, 0xDD, 0xB8, 0x13, 0xEA, 0xDD, 0xB8, 0xCE, 0xAD, 0xDB, 0x28, 0x8E, 0xAD, 0xDB, 0x4E, 0xDE, 0xAE, 0xD3, 0x1A, 0xDD, 0xEA, 0xED, 0xAE, 0xAD, 0xDB, 0x4E, 0xA2, 0xCD, 0xDB, 0x40, 0x9B, 0xEC, 0x0E, 0xFE, 0xBE, 0xC3, 0xED, 0xAA, 0xC4, 0xDA, 0xBB, 0xB1, 0x44, 0xED, 0xFF, 0xEF, 0xAC, 0x0E, 0xA0, 0xCA, 0xFE, 0xAA, 0xB1, 0x32, 0xAE, 0xDF, 0xFE, 0xFA, 0xC1, 0x0C, 0xDB, 0x13, 0xED, 0xA0, 0xCA, 0xFD, 0xDB, 0x40, 0x12, 0x13, 0xAB, 0xED, 0xAD, 0x2A, 0xDD, 0xAD, 0xAE, 0xDF, 0xFE, 0xFA, 0xC1, 0xEA, 0x0C, 0xAC, 0x99, 0xCA, 0xFA, 0xDD, 0xDD, 0xB4, 0x11, 0x2E, 0xAD, 0xDB, 0x13, 0x2C, 0xDD, 0xB4, 0xEA, 0x13, 0xED, 0xDD, 0xB1, 0x32, 0xEA, 0xAB, 0x12, 0x8E, 0xED, 0xDA, 0xCA, 0xFC, 0xAE, 0xDF, 0xFE, 0xFA, 0xC3, 0xEA, 0x0C, 0xAF, 0xDD, 0xB4, 0x01, 0x41, 0x5E, 0xAD, 0xDB, 0x4C, 0xDE, 0xEA, 0xDD, 0xB1, 0x28, 0xA4, 0xEE, 0xAE, 0xDF, 0xFE, 0xFA, 0xC4, 0x0C, 0x14, 0xEA, 0xDD, 0xB1, 0x32, 0xCD, 0xDB, 0x4E, 0xA1, 0x5E, 0xA0, 0xEA, 0xEE }
+
+Disassembly:
+0:  fc                      cld
+1:  ab                      stos   DWORD PTR es:[edi],eax
+2:  bd b2 4d dd b2          mov    ebp,0xb2dd4db2
+7:  8e ea                   mov    gs,edx
+9:  dd b2 8e de ae d3       fnsave [edx-0x2c512172]
+f:  1a dd                   sbb    bl,ch
+11: ea ed ae ad db 4e a2    jmp    0xa24e:0xdbadaeed
+18: 9e                      sahf
+19: ad                      lods   eax,DWORD PTR ds:[esi]
+1a: db 4d db                fisttp DWORD PTR [ebp-0x25]
+1d: 8e a3 8e ad db 8b       mov    fs,WORD PTR [ebx-0x74245272]
+23: ea dd b4 dd b1 2e a4    jmp    0xa42e:0xb1ddb4dd
+2a: 7e dd                   jle    0x9
+2c: db 12                   fist   DWORD PTR [edx]
+2e: ea dd b4 ad de ae dc    jmp    0xdcae:0xdeadb4dd
+35: de ea                   fsubrp st(2),st
+37: d0 a4 ad b2 4a dd ad    shl    BYTE PTR [ebp+ebp*4-0x5222b54e],1
+3e: ed                      in     eax,dx
+3f: dd ae ad db 12 cd       (bad)  [esi-0x32ed2453]
+45: ee                      out    dx,al
+46: ac                      lods   al,BYTE PTR ds:[esi]
+47: 0a 4a db                or     cl,BYTE PTR [edx-0x25]
+4a: 24 ad                   and    al,0xad
+4c: da ce                   fcmove st,st(6)
+4e: ad                      lods   eax,DWORD PTR ds:[esi]
+4f: da ce                   fcmove st,st(6)
+51: de ae 10 ea dd b1       fisubr WORD PTR [esi-0x4e2215f0]
+57: 2c de                   sub    al,0xde
+59: ea d0 a4 ad b2 4a dd    jmp    0xdd4a:0xb2ada4d0
+60: ad                      lods   eax,DWORD PTR ds:[esi]
+61: ea dd ad db 16 ea ed    jmp    0xedea:0x16dbaddd
+68: dd b1 2e ad db 4a       fnsave [ecx+0x4adbad2e]
+6e: dd ea                   fucomp st(2)
+70: ed                      in     eax,dx
+71: cd ee                   int    0xee
+73: ad                      lods   eax,DWORD PTR ds:[esi]
+74: 0a 4a db                or     cl,BYTE PTR [edx-0x25]
+77: 24 ad                   and    al,0xad
+79: da de                   fcmovu st,st(6)
+7b: dd db                   fstp   st(3)
+7d: 12 de                   adc    bl,dh
+7f: de ac 0d 4d db 24 ad    fisubr WORD PTR [ebp+ecx*1-0x52db24b3]
+86: dd ce                   (bad)
+88: ad                      lods   eax,DWORD PTR ds:[esi]
+89: da dd                   fcmovu st,st(5)
+8b: de ae dd db 12 ea       fisubr WORD PTR [esi-0x15ed2423]
+91: dd b4 ad de ae dc de    fnsave [ebp+ebp*4-0x21235122]
+98: ea d0 a4 ad b2 4a dd    jmp    0xdd4a:0xb2ada4d0
+9f: da ea                   (bad)
+a1: dd b1 6d dd ea ea       fnsave [ecx-0x15152293]
+a7: dd b4 bd db 12 ea 4c    fnsave [ebp+edi*4+0x4cea12db]
+ae: dd b1 20 76 10 6a       fnsave [ecx+0x6a107620]
+b4: dd dd                   fstp   st(5)
+b6: b8 13 ea dd b8          mov    eax,0xb8ddea13
+bb: ce                      into
+bc: ad                      lods   eax,DWORD PTR ds:[esi]
+bd: db 28                   fld    TBYTE PTR [eax]
+bf: 8e ad db 4e de ae       mov    gs,WORD PTR [ebp-0x5121b125]
+c5: d3 1a                   rcr    DWORD PTR [edx],cl
+c7: dd ea                   fucomp st(2)
+c9: ed                      in     eax,dx
+ca: ae                      scas   al,BYTE PTR es:[edi]
+cb: ad                      lods   eax,DWORD PTR ds:[esi]
+cc: db 4e a2                fisttp DWORD PTR [esi-0x5e]
+cf: cd db                   int    0xdb
+d1: 40                      inc    eax
+d2: 9b                      fwait
+d3: ec                      in     al,dx
+d4: 0e                      push   cs
+d5: ea fe ee c1 dc 2e ed    jmp    0xed2e:0xdcc1eefe
+dc: be c3 ed aa c4          mov    esi,0xc4aaedc3
+e1: da bb b1 44 ed ff       fidivr DWORD PTR [ebx-0x12bb4f]
+e7: ef                      out    dx,eax
+e8: ac                      lods   al,BYTE PTR ds:[esi]
+e9: 0e                      push   cs
+ea: a0 ca fe aa b1          mov    al,ds:0xb1aafeca
+ef: 32 ae df fe fa c1       xor    ch,BYTE PTR [esi-0x3e050121]
+f5: ea 0c ac 99 ca fe ad    jmp    0xadfe:0xca99ac0c
+fc: db 13                   fist   DWORD PTR [ebx]
+fe: 2e ea ed ff ef ac 2e    cs jmp 0xa02e:0xacefffed
+105:    a0
+106:    ca fd db                retf   0xdbfd
+109:    40                      inc    eax
+10a:    12 13                   adc    dl,BYTE PTR [ebx]
+10c:    ea ab 12 8e dd db 4d    jmp    0x4ddb:0xdd8e12ab
+113:    ed                      in     eax,dx
+114:    ad                      lods   eax,DWORD PTR ds:[esi]
+115:    2a dd                   sub    bl,ch
+117:    ad                      lods   eax,DWORD PTR ds:[esi]
+118:    ae                      scas   al,BYTE PTR es:[edi]
+119:    df fe                   (bad)
+11b:    fa                      cli
+11c:    c1 ea 0c                shr    edx,0xc
+11f:    ac                      lods   al,BYTE PTR ds:[esi]
+120:    99                      cdq
+121:    ca fa dd                retf   0xddfa
+124:    dd b4 11 2e ad db 13    fnsave [ecx+edx*1+0x13dbad2e]
+12b:    2c dd                   sub    al,0xdd
+12d:    b4 ea                   mov    ah,0xea
+12f:    13 ed                   adc    ebp,ebp
+131:    dd b1 32 ea ab 12       fnsave [ecx+0x12abea32]
+137:    8e ed                   mov    gs,ebp
+139:    da ca                   fcmove st,st(2)
+13b:    fc                      cld
+13c:    ae                      scas   al,BYTE PTR es:[edi]
+13d:    df fe                   (bad)
+13f:    fa                      cli
+140:    c3                      ret
+141:    ea 0c af dd b4 01 41    jmp    0x4101:0xb4ddaf0c
+148:    5e                      pop    esi
+149:    ad                      lods   eax,DWORD PTR ds:[esi]
+14a:    db 4c de ea             fisttp DWORD PTR [esi+ebx*8-0x16]
+14e:    dd b1 28 a4 ee ae       fnsave [ecx-0x51115bd8]
+154:    df fe                   (bad)
+156:    fa                      cli
+157:    c4                      (bad)
+158:    ea 0c af ad dd db 41    jmp    0x41db:0xddadaf0c
+15f:    14 ea                   adc    al,0xea
+161:    dd b1 32 cd db 4e       fnsave [ecx+0x4edbcd32]
+167:    a1 5e a0 ea ee          mov    eax,ds:0xeeeaa05e
